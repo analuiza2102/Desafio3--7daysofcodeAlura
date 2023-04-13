@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escolha sua área de T.I</title>
+    
+    <link rel="stylesheet" href="./style.css">
+
+    
+    
+
+</head>
+<body>
+    <header>
+        <img src="./imagens/img_7days_of_code.png" alt="7-days-of-code">
+        <img class="IMG-HEADER" src="./imagens/day_3.png" alt="day-3">
+    </header>
+    <main>
+        <section class="game-formation">
+            <div class="box-game">
+                <h1 class="title-game">Jogo da Formação</h1>
+                <div class="forms-game">
+                    <form class="stage-1 ">
+                        <h2 class="title-salutation">Olá!</h2>
+                        <h2 class="title-game-questions">Seja bem-vindo(a) ao nosso jogo!</h2>
+                        <input class="button-game"  type="button" value="Começar" id="start">
+
+                    </form>
+                    <form class="stage-2 hide">
+                        <h2 class="title-game-questions">Em qual área você deseja seguir?</h2>
+                        <input class="input-radio" type="radio" name="answer" id="front-end"><label class="lbl-game" for="front-end">Front-end</label>
+                        <input class="input-radio" type="radio" name="answer" id="back-end"><label class="lbl-game"  for="back-end">Back-end</label>
+                        <input class="button-game" type="button" value="Confirmar" id="next-stage-3">
+                    </form>
+                    <form class="stage-3-front-end hide">
+                        <h2 class="title-game-questions">O que você deseja aprender?</h2>
+                        <input class="input-radio" type="radio" name="answer" id="react"><label class="lbl-game" for="react">React</label>
+                        <input class="input-radio" type="radio" name="answer" id="vue"><label class="lbl-game"  for="vue">Vue</label>
+                        <input class="button-game" type="button" value="Confirmar" id="next-stage-4-f">
+                    </form>
+                    <form class="stage-3-back-end hide">
+                        <h2 class="title-game-questions">O que você deseja aprender?</h2>
+                        <input class="input-radio" type="radio" name="answer" id="c"><label class="lbl-game" for="c">C#</label>
+                        <input class="input-radio" type="radio" name="answer" id="java"><label class="lbl-game"  for="java">Java</label>
+                        <input class="button-game" type="button" value="Confirmar" id="next-stage-4-b">
+                    </form>
+                    <form class="stage-4 hide">
+                        <h2 class="title-game-questions">Agora você pode escolher entre</h2>
+                        <input class="input-radio" type="radio" name="answer" id="especializar"><label class="lbl-game" for="especializar">Se especializar na área</label>
+                        <input class="input-radio" type="radio" name="answer" id="fullstack"><label class="lbl-game"  for="fullstack">Se tornar FullStack</label>
+                        <input class="button-game" type="button" value="Confirmar" id="next-stage-5">
+                    </form>
+                    <form class="stage-5 hide">
+                        <h2 class="title-game-questions">Você fez uma ótima escolha ao optar por ${}!</h2>
+                        <input class="button-game" type="button" value="Continuar" id="next-stage-6">
+                    </form>
+                    <form class="stage-6 hide">
+                        <h2 class="title-game-questions">Você tem interesse em conhecer alguma tecnologia que não foi citada?</h2>
+                        <input class="input-radio" type="radio" name="answer" id="yes-stg-6"><label class="lbl-game" for="yes-stg-6">Sim</label>
+                        <input class="input-radio" type="radio" name="answer" id="no-stg-6"><label class="lbl-game"  for="no-stg-6">Não</label>
+                        <input class="button-game" type="button" value="Confirmar" id="next-stage-7">
+                    </form>
+                    <form class="stage-7-no hide">
+                        <h2 class="title-salutation">Está bem!</h2>
+                        <h2 class="title-game-questions">Bons estudos, continue evoluindo sempre!</h2>
+                        <input class="button-game" type="button" value="Finalizar" id="finish">
+                    </form>
+                    <form class="stage-7-yes hide">
+                        <h2 class="title-game-questions">Digite o nome da tecnologia na qual você tem interesse em conhecer</h2>
+                        <input class="input-text" type="text" name="others-tecnology" id="others-tec">
+                        <input class="button-game" type="button" value="Confirmar" id="next-stage-8">
+                    </form>
+                    <form class="stage-8 hide">
+                        <h2 class="title-game-questions">Existe mais alguma tecnologia em que você possui interesse?</h2>
+                        <input class="input-radio" type="radio" name="answer" id="yes-stg-8"><label class="lbl-game" for="yes-stg-8">Sim</label>
+                        <input class="input-radio" type="radio" name="answer" id="no-stg-8"><label class="lbl-game"  for="no-stg-8">Não</label>
+                        <input class="button-game" type="button" value="Confirmar" id="next-stage-loop">
+                        
+                    
+                    </form>
+                </div>
+            </div>
+            <h1 class="title-all-tec"></h1>
+            <p class="othersTecLeg"></p>
+        </section>
+    </main>
+
+  <script src="./js/script.js"></script> 
+  
+
+</body>
+</html>
+
+
