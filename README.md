@@ -15,4 +15,6 @@ Seu desafio de hoje é criar os destinos possíveis de um jogo, em que o usuári
 O importante é que a pessoa que estiver jogando possa sempre escolher qual decisão tomar para conseguir aprender e se desenvolver na área de programação.
 
 
-![image](https://user-images.githubusercontent.com/103043108/231832494-8df164d9-17d7-41d2-8f64-29e0e196d04f.png)
+![desk-des3--](https://user-images.githubusercontent.com/103043108/231840706-5733c6b6-97ce-49b1-b654-4a8103e8566d.png)
+
+![mobile--des3](https://user-images.githubusercontent.com/103043108/231840752-af9febe7-9162-4f59-b668-a445ee29bfc5.png)
