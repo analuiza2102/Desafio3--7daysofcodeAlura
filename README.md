@@ -2,6 +2,19 @@
 Desafio da Alura #7DaysOfCode 
 
 
+
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Desafio3--7daysofcodeAlura - Jogo da Formação**
+| :label: Tecnologias | HTML, CSS e JavaScript(tecnologias utilizadas)
+| :rocket: URL         |[ https://analuiza2102.github.io/Desafio3--7daysofcodeAlura/)
+| :fire: Desafio     |[ https://url-do-desafio.com.br](https://7daysofcode.io/#front-end)
+
+
+
+# Descrição
+
 Seu desafio de hoje é criar os destinos possíveis de um jogo, em que o usuário consiga escolher:
 
 1. Se quer seguir para área de Front-End ou seguir para a área de Back-End.
@@ -15,6 +28,6 @@ Seu desafio de hoje é criar os destinos possíveis de um jogo, em que o usuári
 O importante é que a pessoa que estiver jogando possa sempre escolher qual decisão tomar para conseguir aprender e se desenvolver na área de programação.
 
 
-![desk-des3--](https://user-images.githubusercontent.com/103043108/231840706-5733c6b6-97ce-49b1-b654-4a8103e8566d.png)
+![desk-des3--](https://user-images.githubusercontent.com/103043108/231840706-5733c6b6-97ce-49b1-b654-4a8103e8566d.png#vitrinedev)
 
-![mobile--des3](https://user-images.githubusercontent.com/103043108/231840752-af9febe7-9162-4f59-b668-a445ee29bfc5.png)
+![mobile--des3](https://user-images.githubusercontent.com/103043108/231840752-af9febe7-9162-4f59-b668-a445ee29bfc5.png#vitrinedev)
